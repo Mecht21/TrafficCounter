@@ -40,5 +40,5 @@ This repository contains a Python-based program that utilizes YOLOv8 for real-ti
 
 ## Acknowledgements
 
-- [YOLOv8](https://github.com/ultralytics/yolov8) for the object detection framework.
+- [YOLOv8](https://yolov8.com/) for the object detection framework.
 - [OpenCV](https://opencv.org/) for video processing.
