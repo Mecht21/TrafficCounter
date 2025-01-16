@@ -28,7 +28,6 @@ This repository contains a Python-based program that utilizes YOLOv8 for real-ti
 
 1. Clone this repository:
      git clone https://github.com/Mecht21/TrafficCounter.git 
-     cd vehicle-detection-yolov8
 
 2. Install the required dependencies:
    
