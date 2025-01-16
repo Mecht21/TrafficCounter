@@ -1,5 +1,11 @@
 # Vehicle Detection and Counting with YOLOv8
 
+
+
+https://github.com/user-attachments/assets/b7cb863d-efe4-4c84-82a5-3b7bc6675edc
+
+
+
 ## Overview
 
 This repository contains a Python-based program that utilizes YOLOv8 for real-time detection and counting of vehicles, including cars, motorcycles, trucks, and buses. The program processes a recorded video, detecting each vehicle that exits the track and incrementing a counter for accurate tracking.
